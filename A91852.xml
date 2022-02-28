@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange nevves from France, or, the copie of a letter which was sent from thence to the ordinary ambassador for the King of France, unto his Majesty of great Brittaine, who lyes in Lincolnes Inne-Fields, Febr. 8. 1641. Wherein is set downe a true relation of a most wonderfull apparition and terrible spectacle that was seene upon a mountaine in Province, February 4. 1641. Vnto the amazement of all the spectators, to the number of above two thousand. Faithfully translated into English, according to the French copie. By W. V. Gent.</title>
+            <author>Riville, P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91852</idno>
+            <idno type="STC">Wing R1568</idno>
+            <idno type="STC">Thomason E136_15</idno>
+            <idno type="STC">ESTC R19871</idno>
+            <idno type="EEBO-CITATION">99860757</idno>
+            <idno type="PROQUEST">99860757</idno>
+            <idno type="VID">112882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112882)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange nevves from France, or, the copie of a letter which was sent from thence to the ordinary ambassador for the King of France, unto his Majesty of great Brittaine, who lyes in Lincolnes Inne-Fields, Febr. 8. 1641. Wherein is set downe a true relation of a most wonderfull apparition and terrible spectacle that was seene upon a mountaine in Province, February 4. 1641. Vnto the amazement of all the spectators, to the number of above two thousand. Faithfully translated into English, according to the French copie. By W. V. Gent.</title>
+                  <author>Riville, P.</author>
+                  <author>W. V., Gent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: P. Riville, Paris, Febr. 7, 1641.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlel_page">
+            <pb facs="tcp:112882:1" rendition="simple:additions"/>
+            <p>STRANGE NEVVES FROM FRANCE OR, The Copie of a Letter which was ſent from thence to the Ordinary Ambaſſador for the King of <hi>France,</hi> unto his Majeſty of great <hi>Brittaine,</hi> who lyes in <hi>Lincolnes Inne-Fields, Febr.</hi> 8. 1641.</p>
+            <p>Wherein is ſet downe a true Relation of a moſt Wonderfull Apparition and terrible Spectacle that was ſeene upon a Mountaine in <hi>Province, February,</hi> 4. 1641.</p>
+            <p>Vnot the Amazement of all the Spectators, to the number of above two thouſand.</p>
+            <p>Faithfully tranſlated into Engliſh, according to the <hi>French</hi> Copie.</p>
+            <p>By <hi>W. V.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112882:2"/>
+            <pb facs="tcp:112882:2"/>
+            <head>Strange NEVVES from <hi>France.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I have done acquainting your Lordſhip with the affayres of <hi>Spaine</hi> and <hi>Italy,</hi> as farre as my weake intelligence is able to en<g ref="char:EOLhyphen"/>forme you, pray give mee leave to write your Lordſhip ſome<g ref="char:EOLhyphen"/>thing concerning your own Coun<g ref="char:EOLhyphen"/>trey (<hi>France</hi>) and verily my Lord, although Hiſtories both moderne &amp; ancient are copious enough in ſetting down not onely the Acts of Chivalry, and Warlike gueſts of the people and <hi>French</hi> Nation, but alſo the ſtrange Accidents and ſupernaturall events that have happened in the Realme: Yet a more conſpicuous then this whereof J am now going to enforme your Lordſhip, which happened <hi>Febr,</hi> the 4. New ſtile, nor more worthy of the remembrance of poſterity, J think is not mentioned in our Chronicles or annuall records, for ought yet that J could ever reade; not to hold your Lordſhip in further expectance, or to raiſe your admira<g ref="char:EOLhyphen"/>tion with attendance, which without doubt will be ſuffi<g ref="char:EOLhyphen"/>ciently
+<pb facs="tcp:112882:3"/>
+affected with the nature of the Relation: The Wonder following was this:</p>
+            <p>IN the Province of <hi>Avignon,</hi> two leagues from St. <hi>Vincents</hi> neere the Mountaine and Plaines called <hi>De Varra cavill,</hi> being the Demeanes and Heredi<g ref="char:EOLhyphen"/>tary of the late poſſeſſion of the late unhappy Monſieur <hi>Memoran<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> betwixt ſeaven and eight in the morning, the day above mentioned, it being a great Gloome of Muſt not ſeldome ſeene with us, were ſenſible heard, the call of divers Drums beating to Armes, after that the Trumpets, diſtinctly ſounded but a <hi>ſella;</hi> after that both Drums and Trumpets, clearely and terribly, the one by beating, the other by his tantaraing gave e<g ref="char:EOLhyphen"/>vident notice of marching, the Neighbours and In<g ref="char:EOLhyphen"/>habitants thereabouts to the number of ſome two or three thouſand people fit for Armes, preſently flew unto their Weapons, thinking that ſome power of <hi>Spaine</hi> had beene comming to invade them through the <hi>Griſons</hi> Countrey, but going to uſe and aſlay their Armes, they found themſelves ſo poſſeſſed and ceaſed with a pale and ghaſtly feare, that little ſto<g ref="char:EOLhyphen"/>macke they had to goe to meet theſe ſuppoſed Ene<g ref="char:EOLhyphen"/>mies: The Prieſt of the Pariſh cauſed the Bell to be toled to Prayers, aſſuring the people that by the effects he felt in himſelfe, and thoſe he perceived in them; this was not the Army of any Earthly power, but of the King of Heaven: The people gave of the courſe of Ar<g ref="char:EOLhyphen"/>ming and followed his advice, went to their Church, and to their devotion, all the Drums in a very great number ſounded moſt diſtinctly divers diſtinct marches, as of ſeverall Nations: and as did the Drums for the Jnfanterie, ſo did the Trumpets for the Caval<g ref="char:EOLhyphen"/>lery, ſome ſounding deeper, ſome ſhriller, the voices of Commauders was plainely heard but not underſtood. This
+<pb facs="tcp:112882:3"/>
+This continued ſome an houre and a halfe of therea<g ref="char:EOLhyphen"/>bouts: all which time the Miſt never ſeene before lay upon the Mountaine and plaine in a very diſmall man<g ref="char:EOLhyphen"/>ner, th Prieſt did his Office in exhorting the people to truſt in God, and to pray unto him, ſhewing himſelfe more Man, then all his Pariſhioners beſides.</p>
+            <p>At the laſt, it brake up a moſt cleare day, the Miſt was diſperſed, and the Sunne ſhined, as for this time of the yeare in his full ſtrength, and with the appearing of the Sunne, the Inhabitants tooke, at the Prieſts perſwaſion ſome better en<g ref="char:EOLhyphen"/>couragement to behold the wonders of God be<g ref="char:EOLhyphen"/>ing then aſſured, as well they might, that it was a Meſſage from Heaven, the Sunne thus clearely ſhining, appeared two marſhalled Armies upon the Mountaine, the Enſigne of one being white, and a Sable Croſſe, of the other the Enſigne red, and the Croſſe white, in direct forme of Battalia one againſt another, their Horſe Marſhalled in the Wings in a very perfect way <hi>Cavallarie,</hi> at laſt the Cannons ratled on both ſides for the ſpace of halfe an houre, during which time the two Armies were ſeene to draw on ſoftly, not onely the noyſe and ſmoke of Cannons were evidently ſeene; and heard, but the very forme of Cannons with their Cariages, Gunners, and Fire-ſticks, was apparently perceived, and diſcried, by above three Thouſand People, who have depoſed it and ſworne it ſome of them, being of no ſmall quantity, after the play of Cannon on both ſides the Armies drew neare, and the horſe delivered charges
+<pb facs="tcp:112882:4"/>
+ceived charges very ſiercely on both ſides, the Lan<g ref="char:EOLhyphen"/>ces were both ſeene and heard to ſhiver, men as they appeared, fell from horſe, and horſe fell un<g ref="char:EOLhyphen"/>der men, with great noyſe, groanes and piteous clamours, at laſt the groſſe of both Armies met, and fought in a maine body, two whole houres moſt pittifull ejaculations being all the while heard, men fell evidently on both ſides to all mens view, but more on the ſide that had the white Enſignes and Croſſe ſable, then on the O<g ref="char:EOLhyphen"/>ther, at laſt the Mountain was all covered againe with the ſmoake of Powder, the ſent whereof came hot into the noſes of the Inhabitants be<g ref="char:EOLhyphen"/>low. At length ſome halfe an houre after the ſhooting and claſhing began to ceaſe, then againe moſt gloriouſly appeared the Sunne, and onely appeared the Army that bore the red colours with the White-Croſſe, vaunting, tryumphing, and with great joy ſhooting, and ecchoing as well with Voice, as with Drum, Fife, and Trum<g ref="char:EOLhyphen"/>pet, on the ſide of the white Enſignes, and Sa<g ref="char:EOLhyphen"/>ble-Croſſe, were by them diſcryed abundance yea, an innumerable multitude of dead Carkaſſes, both of horſe and men, broken Artillerie, ſhive<g ref="char:EOLhyphen"/>red Lances, and all other miſerable tokens of a vanquiſht party, the other Army faire marched away into the Ayre to all their thinking, but the other lay in the poſture as is written, ſome peo<g ref="char:EOLhyphen"/>ple would have gone up that very day unto the Mountaine; but were otherwayes adviſed by their Popiſh Prieſts, and the reſt of the Cler<g ref="char:EOLhyphen"/>gie in thoſe parts, the morrow they went up, but
+<pb facs="tcp:112882:4"/>
+ſaw nothing, nor any broken weapons, or dead Corps whatſoever, as did appeare in that num<g ref="char:EOLhyphen"/>ber the day before, ſave onely upon the top of the Mountaine, there being a great plaine, they went in that plaine up to the knees in blood, yea ingore-blood: Sir, what this may pretend God knoweth, but you have the Relation as here it was delivered unto his Majeſty by the ſaid Pariſh Prieſt: And the Gentry, Inhabitants of the place, with a <hi>Teſtat</hi> ſigned with above a thouſand hands more of thoſe that were Spectators the firſt day, and went up the Mountaine to view; on the next, I my ſelfe (as my place it is) have ſpo<g ref="char:EOLhyphen"/>ken with divers of the Gentlemen that came up, and tooke the paines of purpoſe to enforme his Majeſty, who all averre it in that worthy ſerious manner that here we are forced to believe it, as I know your Lordſhip will take it for no other from him that would be heartily ſorrie to en<g ref="char:EOLhyphen"/>forme you otherwiſe.</p>
+            <closer>
+               <signed>Your Lordſhips ſervant to command. <hi>P. Riville.</hi>
+               </signed> 
+               <dateline>Paris. <date>Febr. 7. 1641.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
